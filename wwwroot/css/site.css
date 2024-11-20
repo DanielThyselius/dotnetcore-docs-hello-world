@@ -16,4 +16,9 @@ html {
 body {
   margin-bottom: 60px;
   background-color: bisque;
+  color: darkslateblue;
+}
+
+h1{
+  font-weight: 800;
 }
